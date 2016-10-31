@@ -1,3 +1,8 @@
+/*
+* @author Pedro Arthur Medeiros Fernandes
+* @author Yuri Alessandre Martins
+/
+
 #include <iostream>
 #include <string>
 #include <fstream>
